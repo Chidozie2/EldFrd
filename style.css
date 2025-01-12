@@ -4,9 +4,6 @@
   text-decoration: none;
 }
 
-body {
-  text-align: center;
-}
 body .navbar {
   background-color: crimson;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -21,9 +18,9 @@ body .navdiv {
   justify-content: space-between;
 }
 body .logo a {
-  font-size: 35px;
+  font-size: 55px;
   font-weight: 600;
-  color: blue;
+  color: white;
 }
 body li {
   list-style: none;
@@ -31,7 +28,15 @@ body li {
 }
 body li a {
   color: white;
-  font-size: 18px;
+  font-size: 30px;
   font-weight: bold;
   margin-right: 25px;
+}
+body .sect-1 {
+  text-align: center;
+  background-color: blue;
+  font-size: 50px;
+  height: auto;
+  font-weight: bold;
+  text-shadow: 20px red;
 }/*# sourceMappingURL=style.css.map */
